@@ -10,6 +10,8 @@ Mimic helps with:
 * enables ability to test unusual behaviors/errors of an api
 * acts as a central repository for mocked responses from services
 
+### Come join us develop Mimic, at ##mimic on irc.freenode.net ###
+
 
 ## Compute ##
 
